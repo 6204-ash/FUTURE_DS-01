@@ -49,3 +49,20 @@ Analyze e-commerce sales data to identify:
 - Dashboard design in Power BI  
 
 
+---
+
+## ✅ Task 2: Marketing Campaign Insight Analysis  
+*Objective:* Evaluate the effectiveness of marketing campaigns and customer spending patterns.  
+
+*Key Insights:*  
+1. *Accepted Campaigns* – Campaign 2 & 4 had the highest acceptance (~25% each).  
+2. *Purchases* – Store purchases dominate (39%), followed by web & catalog.  
+3. *Spending by Education* – Graduates are the biggest spenders, especially on *wines & meat products*.  
+4. *Income vs Spending* – Strong positive correlation: higher income = higher spending.  
+5. *Trends* – Income peaked in *Q1 2013*, but complaints increased, leading to reduced spending later.  
+
+📊 *Dashboard Preview:*  
+![Task 2 Dashboard](dashboard2.png)  
+
+📂 *Files:*  
+- Internship_task_2_future_intern.pbix
