@@ -42,12 +42,17 @@ Analyze e-commerce sales data to identify:
 - **Dataset.csv**: Cleaned dataset (if permitted to share)
 
 
+
+
 ## 🚀 Skills Gained
 - Data cleaning & preprocessing  
 - Writing DAX measures for KPIs  
 - Trend analysis & data-driven storytelling  
 - Dashboard design in Power BI  
 
+
+ 📊 *Dashboard Preview:*  
+![Task 1 Dashboard](Task%201%20Dashboard.png)
 
 ---
 
