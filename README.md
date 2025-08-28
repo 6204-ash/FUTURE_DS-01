@@ -67,7 +67,4 @@ Analyze e-commerce sales data to identify:
 5. *Trends* – Income peaked in *Q1 2013*, but complaints increased, leading to reduced spending later.  
 
 📊 *Dashboard Preview:*  
-![Task 2 Dashboard](dashboard2.png)  
-
-📂 *Files:*  
-- Internship_task_2_future_intern.pbix
+![Task 2 Dashboard](dashboard%202.jpg)
