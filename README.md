@@ -116,5 +116,9 @@ The notebook includes:
 
 ✍️ *Prepared as part of Future Interns – Data Science & Analytics Internship*
 ```
+📊 *Dashboard Preview:*  
+![Task 3 Dashboard](Task%203.jpg)
+
+
 
 
