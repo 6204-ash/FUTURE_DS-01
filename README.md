@@ -122,10 +122,10 @@ The notebook includes:
 Here are sample visuals generated from the analysis:
 
 ### Bar Chart of Average Ratings
-![Task 3 Dashboard](Task%203%20Dashboard.png)
+![Task 3 Dashboard](Task%203%20Dashboard.jpg)
 
 ### Correlation Heatmap
-![Task 3 Dashboard(1)](Task%203%20Dashboard(1).png)
+![Task 3 Dashboard(1)](Task%203%20Dashboard(1).jpg)
 
 
 
