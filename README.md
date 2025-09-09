@@ -116,16 +116,13 @@ The notebook includes:
 
 ✍️ *Prepared as part of Future Interns – Data Science & Analytics Internship*
 ```
-📊 *Dashboard Preview:*  
 ## 📊 Task 3 – Student Feedback Dashboard
 
-Here are sample visuals generated from the analysis:
-
 ### Bar Chart of Average Ratings
-![Task 3 Dashboard](Task%203%20Dashboard.jpg)
+![Task 3 Dashboard](Task%203%20dashboard%20.jpg)
 
 ### Correlation Heatmap
-![Task 3 Dashboard(1)](Task%203%20Dashboard(1).jpg)
+![Task 3 Dashboard (1)](Task%203%20Dashboard%20(1).jpg)
 
 
 
