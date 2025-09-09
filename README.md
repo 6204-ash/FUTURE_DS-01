@@ -116,8 +116,6 @@ The notebook includes:
 
 ✍️ *Prepared as part of Future Interns – Data Science & Analytics Internship*
 ```
-## 📊 Task 3 – Student Feedback Dashboard
-
 ### Bar Chart of Average Ratings
 ![Task 3 Dashboard](Task%203%20dashboard%20.jpg)
 
