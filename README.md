@@ -115,10 +115,8 @@ The notebook includes:
 ---
 ### Task 3 Dashboards
 
-#### Dashboard 1
-![Task 3 Dashboard](https://github.com/6204-ash/6204-ash/blob/main/Task3_dashboard.jpg?raw=true)
-
-#### Dashboard 2
-![Task 3 Dashboard 1](https://github.com/6204-ash/6204-ash/blob/main/Task3_dashboard_1.jpg?raw=true)
+📊 *Dashboard Preview:*  
+![Task 3 Dashboard 1](Task3_dashboard1.jpg)  
+![Task 3 Dashboard 2](Task3_dashboard.jpg)
 
 
