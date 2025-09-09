@@ -113,5 +113,12 @@ The notebook includes:
 - Collect **open-text feedback** in future surveys for deeper insights (e.g., word cloud, sentiment analysis).  
 
 ---
+### Task 3 Dashboards
+
+#### Dashboard 1
+![Task 3 Dashboard](https://github.com/6204-ash/6204-ash/blob/main/Task3_dashboard.jpg?raw=true)
+
+#### Dashboard 2
+![Task 3 Dashboard 1](https://github.com/6204-ash/6204-ash/blob/main/Task3_dashboard_1.jpg?raw=true)
 
 
