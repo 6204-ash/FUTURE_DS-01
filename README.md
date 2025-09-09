@@ -114,11 +114,4 @@ The notebook includes:
 
 ---
 
-✍️ *Prepared as part of Future Interns – Data Science & Analytics Internship*
-```
-![Task 3 Dashboard](https://github.com/your-username/your-repo/blob/main/Task3_dashboard.jpg?raw=true)
-
-![Task 3 Dashboard (1)](https://github.com/your-username/your-repo/blob/main/Task3_dashboard_1.jpg?raw=true)
-
-
 
