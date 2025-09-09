@@ -117,11 +117,9 @@ The notebook includes:
 ✍️ *Prepared as part of Future Interns – Data Science & Analytics Internship*
 ```
 ### Bar Chart of Average Ratings
-![Task 3 Dashboard](Task%203%20dashboard%20.jpg)
+![Task 3 Dashboard](Task3_dashboard.jpg)
 
 ### Correlation Heatmap
-![Task 3 Dashboard (1)](Task%203%20Dashboard%20(1).jpg)
-
-
+![Task 3 Dashboard (1)](Task3_dashboard_1.jpg)
 
 
